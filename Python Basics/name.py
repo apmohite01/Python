@@ -1,0 +1,2 @@
+name="Ojas"
+print(name)
